@@ -1,0 +1,11 @@
+Classification report for MLPClassifier 
+
+              precision    recall  f1-score   support
+
+           0       0.86      0.85      0.85       246
+           1       0.75      0.77      0.76       151
+
+    accuracy                           0.82       397
+   macro avg       0.80      0.81      0.81       397
+weighted avg       0.82      0.82      0.82       397
+

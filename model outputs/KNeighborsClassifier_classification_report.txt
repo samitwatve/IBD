@@ -1,0 +1,11 @@
+Classification report for KNeighborsClassifier 
+
+              precision    recall  f1-score   support
+
+           0       0.64      0.81      0.72       246
+           1       0.46      0.26      0.34       151
+
+    accuracy                           0.60       397
+   macro avg       0.55      0.54      0.53       397
+weighted avg       0.57      0.60      0.57       397
+

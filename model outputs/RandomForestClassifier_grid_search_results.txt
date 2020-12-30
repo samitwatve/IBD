@@ -1,0 +1,15 @@
+Best performing model = RandomForestClassifier(max_features='sqrt', n_estimators=1000) 
+
+Accuracy score on the test set = 0.71 
+
+Model parameters = {'max_features': 'sqrt', 'n_estimators': 1000} 
+
+   mean_fit_time  std_fit_time  mean_score_time  std_score_time  ... split4_test_score mean_test_score std_test_score  rank_test_score
+2      11.448911      0.085992         0.288678        0.008127  ...          0.730512        0.742889       0.014209                1
+1       1.135162      0.013402         0.043285        0.004306  ...          0.706013        0.731317       0.016383                2
+5       6.333906      0.748976         0.280811        0.057352  ...          0.710468        0.708641       0.012944                3
+4       0.676790      0.004117         0.048869        0.003277  ...          0.697105        0.696631       0.017234                4
+0       0.166456      0.009330         0.024535        0.004259  ...          0.652561        0.682808       0.020978                5
+3       0.107911      0.003051         0.020945        0.000631  ...          0.672606        0.664606       0.019145                6
+
+[6 rows x 15 columns]
